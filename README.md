@@ -67,6 +67,8 @@ The script will:
 
 ## Error Handling
 
+link to video sample --> https://www.awesomescreenshot.com/video/40561925?key=e7b2448da8c651a19e8498c1da95cc9e
+
 The system includes comprehensive error handling and logging for each step of the process. Failed operations are logged and won't prevent the processing of subsequent calls.
 
 
