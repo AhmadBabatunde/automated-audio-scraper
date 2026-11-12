@@ -65,9 +65,9 @@ The script will:
 5. Update call status and store transcriptions
 6. Clean up temporary files
 
-## Error Handling
-
 link to video sample --> https://www.awesomescreenshot.com/video/40561925?key=e7b2448da8c651a19e8498c1da95cc9e
+
+## Error Handling
 
 The system includes comprehensive error handling and logging for each step of the process. Failed operations are logged and won't prevent the processing of subsequent calls.
 
